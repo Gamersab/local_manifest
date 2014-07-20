@@ -1,4 +1,4 @@
-PicoLegacy
+CyanogenMod 11
 ==============
 
 The local manifests for building CM11 for HTC Explorer/Pico.
