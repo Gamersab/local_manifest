@@ -28,7 +28,7 @@
 <remove-project name="CyanogenMod/android_hardware_qcom_display-caf"/>
 <remove-project name="CyanogenMod/android_hardware_qcom_media-caf"/>
 <!-- Legacy Repos -->
-<project path="frameworks/av" name="legaCyMod/android_frameworks_av" revision="cm-11.0" />
+<project path="frameworks/av" name="gamersab/android_frameworks_av" revision="cm-11.0" />
 <project path="frameworks/native" name="legaCyMod/android_frameworks_native" revision="cm-11.0" />
 <project path="external/webkit" name="gamersab/android_external_webkit" revision="cm-11.0" />
 <!-- Picolegacy Repos -->
@@ -43,8 +43,5 @@
 <!-- Device Tree, Kernel and Vendor -->
 <project path="device/htc/pico" name="Sachinthomaspj/android_device_htc_pico" revision="master" />
 <project path="kernel/htc/pico" name="Gamersab/android_kernel_htc_pico" revision="android-4.4"/>
-<project path="vendor/htc/pico/proprietary" name="thewisenerd/vendor_htc_pico_proprietary" revision="android-4.4" />
-<!-- LINARO TOOLCHAIN -->
-<project name="JustArchi/Linaro" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" remote="github" revision="4.8-eabi" />
-<project name="JustArchi/Linaro" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" remote="github" revision="4.8-androideabi" />
+<project path="vendor/htc/pico/proprietary" name="gamersab/vendor_htc_pico_proprietary" revision="android-4.4" />
 </manifest>
