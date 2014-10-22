@@ -27,10 +27,12 @@
 <remove-project name="CyanogenMod/android_frameworks_webview"/>
 <remove-project name="CyanogenMod/android_hardware_qcom_display-caf"/>
 <remove-project name="CyanogenMod/android_hardware_qcom_media-caf"/>
+<remove-project name="CyanogenMod/android_external_skia" />
 <!-- Legacy Repos -->
 <project path="frameworks/av" name="gamersab/android_frameworks_av" revision="cm-11.0" />
 <project path="frameworks/native" name="legaCyMod/android_frameworks_native" revision="cm-11.0" />
 <project path="external/webkit" name="gamersab/android_external_webkit" revision="cm-11.0" />
+<project path="external/skia" name="gamersab/android_external_skia-1" />
 <!-- Picolegacy Repos -->
 <project path="frameworks/base" name="PicoLegacy/android_frameworks_base" revision="cm-11.0" />
 <project path="packages/apps/Settings" name="PicoLegacy/android_packages_apps_Settings" revision="cm-11.0" />
