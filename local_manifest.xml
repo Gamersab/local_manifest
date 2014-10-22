@@ -42,6 +42,6 @@
 <project path="hardware/qcom/media-caf" name="thewisenerd/android_hardware_qcom_media-caf" revision="cm-11.0" />
 <!-- Device Tree, Kernel and Vendor -->
 <project path="device/htc/pico" name="Sachinthomaspj/android_device_htc_pico" revision="master" />
-<project path="kernel/htc/pico" name="Gamersab/android_kernel_htc_pico" revision="android-4.4"/>
+<project path="kernel/htc/pico" name="gamersab/android_kernel_htc_pico" revision="android-4.4"/>
 <project path="vendor/htc/pico/proprietary" name="gamersab/vendor_htc_pico_proprietary" revision="android-4.4" />
 </manifest>
